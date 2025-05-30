@@ -7,6 +7,10 @@ This project was from a summer class I took*. I do not have the original task, b
 
 Currently uncommented as that was not a requirement for the project.
 
+## Showcase
+
+<img src="project_3_screenshot.png" width="357" height="362">
+
 ## Explination
 
 The Main.java file starts with an init() function. This function either establishes or creates a connection with the database then creates a new table. When the database is delt with it will add coulumns to JavaFX table. Finally updates the table with the updateTable() function.
